@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  background: #ffc600;
+  background: #87F6FF;
   font-family: sans-serif;
   font-size: 20px;
   font-weight: 200;
@@ -69,5 +69,5 @@ span.population {
 }
 
 .hl {
-  background: #ffc600;
+  background: #87F6FF;
 }
